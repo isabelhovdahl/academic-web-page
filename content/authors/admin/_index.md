@@ -22,13 +22,13 @@ organizations:
     url: https://www.nhh.no/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include climate change, green innovation and energy.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Green innovation
+  - Climate change impacts
+  - Energy
 
 # Education to show in About widget
 education:
@@ -74,5 +74,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+#Isabel Hovdahl is an assistant professor at NHH Norwegian School of Economics. Her research interests include distributed robotics, mobile computing and programmable #matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+#{style="text-align: justify;"}
