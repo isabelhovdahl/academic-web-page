@@ -22,7 +22,7 @@ slides: ""
 #url_pdf: http://arxiv.org/pdf/1512.04133v1
 publication_types:
   - "2"
-authors: ['Isabel Hovdahl']
+authors: [admin]
 author_notes: []
 publication: "*Environmental Research Letters, 17*(10)"
 summary: ""
