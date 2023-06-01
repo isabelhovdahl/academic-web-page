@@ -38,15 +38,13 @@ sections:
  #     # Choose a layout view
  #     view: compact
  #     columns: '2'
-  - block: markdown
-    id: current
-    content:
-      title: Work in progress
-      text: Add text here
-    design:
-      columns: '2'
-  
-  
+ # - block: markdown
+ #   id: current
+ #   content:
+ #     title: Work in progress
+ #     text: Add text here
+ #   design:
+ #     columns: '2'
   - block: collection
     id: working
     content:
@@ -58,8 +56,8 @@ sections:
     design:
       columns: '2'
       view: list
-      
   - block: collection
+    id: published
     content:
       title: Publications
       filters:
@@ -69,7 +67,6 @@ sections:
     design:
       columns: '2'
       view: citation
-      
 #  - block: collection
 #    id: talks
 #    content:
