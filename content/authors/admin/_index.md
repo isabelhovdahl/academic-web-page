@@ -74,5 +74,6 @@ email: ''
 highlight_name: true
 ---
 
+About me.
 #Isabel Hovdahl is an assistant professor at NHH Norwegian School of Economics. Her research interests include distributed robotics, mobile computing and programmable #matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-#{style="text-align: justify;"}
+{style="text-align: justify;"}
