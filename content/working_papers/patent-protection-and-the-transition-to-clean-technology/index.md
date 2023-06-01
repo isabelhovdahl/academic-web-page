@@ -1,5 +1,5 @@
 ---
-title: Patent Protection and the Transition to Clean Technology *Under review*
+title: Patent Protection and the Transition to Clean Technology
 publication_types:
   - "3"
 authors: 
