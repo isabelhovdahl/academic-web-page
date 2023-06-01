@@ -5,14 +5,12 @@ date: 2022-10-24
 type: landing
 
 sections:
-  
   - block: about.biography
     id: about
     content:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  
   #- block: collection
   #  id: posts
   #  content:
@@ -67,7 +65,6 @@ sections:
   #    view: showcase
   #    # For Showcase view, flip alternate rows?
   #    flip_alt_rows: false
-  
   # WORK IN PROGRESS 
   - block: markdown
       id: current
@@ -76,7 +73,6 @@ sections:
         text: Add text here
       design:
         columns: '2'
-
   # WORKING PAPERS
   - block: collection
       id: working
@@ -89,7 +85,6 @@ sections:
       design:
         columns: '2'
         view: list
-  
   # PUBLICATIONS
   - block: collection
     content:
@@ -101,8 +96,6 @@ sections:
     design:
       columns: '2'
       view: citation
-      
-      
   # CONTACT    
   - block: contact
     id: contact
