@@ -32,7 +32,7 @@ publication_short: ""
 url_source: ""
 url_video: ""
 title: The deadly effect of day-to-day temperature variation in the United States
-doi: ""
+doi: "10.1088/1748-9326/ac9297"
 featured: false
 tags: []
 projects: []
@@ -40,7 +40,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-date: 2015-09-01T00:00:00Z
+date: 2022-10-03T00:00:00Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00Z
 url_poster: ""
