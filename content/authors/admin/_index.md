@@ -26,9 +26,9 @@ bio: My research interests include climate change, green innovation and energy.
 
 # Interests to show in About widget
 interests:
+  - Social cost of carbon
   - Green innovation
-  - Climate change impacts
-  - Energy
+  - Renewable energy
 
 # Education to show in About widget
 education:
@@ -75,5 +75,8 @@ highlight_name: true
 ---
 
 About me.
-#Isabel Hovdahl is an assistant professor at NHH Norwegian School of Economics. Her research interests include distributed robotics, mobile computing and programmable #matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an environmental economist interested in issues related to climate change. In my research, I use empirical methods and theoretical modelling to investigate the social and economic impacts of climate change, optimal climate policy and the transition to clean energy. 
+
+I received my PhD in economics from the Norwegian University of Science and Technology (NTNU). I am an assistant professor at The Norwegian School of Economics (NHH).
+
 {style="text-align: justify;"}
