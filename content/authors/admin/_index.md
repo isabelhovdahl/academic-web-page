@@ -26,8 +26,8 @@ bio: My research interests include climate change, green innovation and energy.
 
 # Interests to show in About widget
 interests:
-  - Social cost of carbon
   - Green innovation
+  - Social cost of carbon
   - Renewable energy
 
 # Education to show in About widget
