@@ -71,7 +71,7 @@ sections:
     id: teaching
     content:
       title: Teaching
-      text: >-
+      text: |-
         At NHH, I teach the following courses:
         
         * [BAN436](https://www.nhh.no/en/courses/introduction-to-python/) Introduction to Python
