@@ -1,7 +1,7 @@
 ---
 title: Projects
 cms_exclude: true
-draft: false
+draft: true
 
 # View.
 #   1 = List
