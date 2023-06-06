@@ -67,6 +67,13 @@ sections:
     design:
       columns: '2'
       view: citation
+  - block: markdown
+    id: teaching
+    content:
+      title: Teaching
+      text: Add text here
+    design:
+      columns: '2'
   - block: contact
     id: contact
     content:
