@@ -71,9 +71,9 @@ sections:
     id: teaching
     content:
       title: Teaching
-      text:
+      text: "
          - BAN436 Introduction to Python
-         - BAN438 Application design in Python
+         - BAN438 Application design in Python"
     design:
       columns: '2'
   - block: contact
