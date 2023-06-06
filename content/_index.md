@@ -68,7 +68,7 @@ sections:
       columns: '2'
       view: citation
   - block: collection
-    id: talks
+    #id: talks
     content:
       title: Recent & Upcoming Talks
       filters:
