@@ -71,9 +71,7 @@ sections:
     id: teaching
     content:
       title: Teaching
-      text: "
-         - BAN436 Introduction to Python
-         - BAN438 Application design in Python"
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
     design:
       columns: '2'
   - block: contact
