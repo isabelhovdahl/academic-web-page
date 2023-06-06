@@ -74,9 +74,10 @@ sections:
       text: >-
         At NHH, I teach the following courses:
         
-        - BAN436
+        * **BAN436** Introduction to Python
         
-        - BAN438
+        
+        * BAN438 Application development in Python
         
     design:
       columns: '2'
