@@ -71,7 +71,7 @@ sections:
     id: teaching
     content:
       title: Teaching
-      text: At NHH, I teach the following courses: 
+      text: 
     design:
       columns: '2'
   - block: contact
