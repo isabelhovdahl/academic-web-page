@@ -71,10 +71,9 @@ sections:
     id: teaching
     content:
       title: Teaching
-      text: 
-        At NHH, I teach the following courses \\
-         - BAN436
-         - BAN438
+      text:
+         - BAN436 Introduction to Python
+         - BAN438 Application design in Python
     design:
       columns: '2'
   - block: contact
