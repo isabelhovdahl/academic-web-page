@@ -71,7 +71,8 @@ sections:
     id: teaching
     content:
       title: Teaching
-      text: Add any **markdown** formatted content here <br> - text, images, videos, galleries - and even HTML code!
+      text: 
+      Add any **markdown** formatted content here <br> - text, images, videos, galleries - and even HTML code!
     design:
       columns: '2'
   - block: contact
