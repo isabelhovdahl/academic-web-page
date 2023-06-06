@@ -73,6 +73,7 @@ sections:
       title: Teaching
       text: 
         At NHH, I teach the following courses
+        
          - BAN436
          - BAN438
     design:
