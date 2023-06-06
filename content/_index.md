@@ -72,7 +72,7 @@ sections:
     content:
       title: Teaching
       text: 
-        Add any **markdown** formatted content here
+        At NHH, I teach the following courses:
         
         * item1
         
