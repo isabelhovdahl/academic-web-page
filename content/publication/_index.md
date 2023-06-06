@@ -1,7 +1,7 @@
 ---
 title: Publications
 cms_exclude: false
-draft: true
+private: true
 
 # View.
 #   1 = List
