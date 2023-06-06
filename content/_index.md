@@ -72,7 +72,7 @@ sections:
     content:
       title: Teaching
       text: 
-        At NHH, I teach the following courses:
+        At NHH, I teach the following courses\:
         
         * item1
         
