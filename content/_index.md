@@ -73,6 +73,7 @@ sections:
       title: Teaching
       text: 
         Add any **markdown** formatted content here
+        
         * item1
         * item2
     design:
