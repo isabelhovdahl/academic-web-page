@@ -72,7 +72,9 @@ sections:
     content:
       title: Teaching
       text: 
-        Add any **markdown** formatted content here <br> - text, images, videos, galleries - and even HTML code!
+        Add any **markdown** formatted content here
+        * item1
+        * item2
     design:
       columns: '2'
   - block: contact
