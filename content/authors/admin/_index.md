@@ -74,7 +74,7 @@ email: ''
 highlight_name: true
 ---
 
-I am an environmental economist focused on climate change. In my research, I employ a combination of empirical methods and theoretical modeling to investigate social and economic issues related to climate change. I am especially interested in exploring policy tools to mitigate climate change and drive the transition to clean energy sources. My goal is to contribute to the development of effective strategies for transitioning towards a low-carbon economy and sustainable growth.
+I am an environmental economist focused on climate change. In my research, I employ a combination of empirical methods and theoretical modeling to investigate social and economic issues related to climate change. I am especially interested in exploring policy tools to drive the transition to clean energy sources. My goal is to contribute to the development of effective strategies for transitioning towards a low-carbon economy and sustainable growth.
 
 I am an assistant professor at the Norwegian School of Economics (NHH). I received my PhD in economics from the Norwegian University of Science and Technology (NTNU). 
 
