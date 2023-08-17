@@ -4,24 +4,7 @@ publication_types:
   - "3"
 authors: 
   - with Maria Alsina-Pujols (ETH)
-abstract: "It has proven to be a challenging task for policymakers to implement
-  sufficiently high carbon taxes and public funding of research to induce the
-  transition to clean technology. This calls for the exploration of alternative
-  policy tools. In this context, this paper analyzes the use of patent
-  protection as a new policy tool to help induce the transition to clean
-  technology. It has been argued that patent protection works as a barrier to
-  the diffusion of clean technology, and that clean technology should therefore
-  be exempt from patent protection. This argument, however, does not consider
-  the role of patent protection in incentivizing innovation. We therefore
-  propose that to induce more clean innovation, it is *dirty* technology that
-  should be exempt from patent protection. We explore this novel idea in a in a
-  general equilibrium model with directed technical change, and where
-  traditional environmental policy is constrained. We find that removing patent
-  protection on dirty technology can in fact help foster the transition to clean
-  technology, despite the increase in demand for dirty technology in the
-  short-run. In addition, we find potentially large welfare gains from using
-  patent protection as a policy tool when traditional environmental policy is
-  constrained. "
+abstract: "We analyze the use of patent protection as a new policy to direct technical change to clean technology. Contrary to popular belief, it is dirty (and not clean) innovations that should be excluded from patent protection to reduce emissions. In the short-run, removing patent protection on dirty technology increases emissions. However, the reduced markup on dirty technology can induce clean innovation, reducing emissions in the long-run. We use a general equilibrium model to show both analytically and numerically that removing patent protection on dirty technology can indeed promote the energy transition and reduce the cost of mitigating climate change."
 draft: false
 featured: true
 image:
