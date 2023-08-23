@@ -2,8 +2,7 @@
 title: Guarantees of Origin and Competition in the Spot Electricity Market
 publication_types:
   - "3"
-authors: 
-  - ["Malin Arve (NHH)", "Endre Bjørndal (NHH)", "Mette Bjørndal (NHH)", "Mario Blázquez (NHH)"]
+authors: ["Malin Arve (NHH)", "Endre Bjørndal (NHH)", "Mette Bjørndal (NHH)", "Mario Blázquez (NHH)"]
 abstract: Draft coming soon
 draft: false
 featured: true
