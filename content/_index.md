@@ -77,6 +77,8 @@ sections:
         * [BAN436](https://www.nhh.no/en/courses/introduction-to-python/) Introduction to Python
         
         * [BAN438](https://www.nhh.no/en/courses/application-development-in-python/) Application Development in Python
+
+        See here for a list of master thesis supervision.
         
     design:
       columns: '2'
