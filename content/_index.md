@@ -78,7 +78,8 @@ sections:
         
         * [BAN438](https://www.nhh.no/en/courses/application-development-in-python/) Application Development in Python
 
-        
+        {{< ref "/post/getting-started" >}}
+    
     design:
       columns: '2'
   - block: contact
