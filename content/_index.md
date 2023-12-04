@@ -78,7 +78,7 @@ sections:
         
         * [BAN438](https://www.nhh.no/en/courses/application-development-in-python/) Application Development in Python
 
-        See here for a list of master thesis supervision.
+        See [About]({{< ref "/about" >}} "About Us") for a list of master thesis supervision.
         
     design:
       columns: '2'
