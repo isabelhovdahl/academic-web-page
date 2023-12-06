@@ -1,6 +1,6 @@
 ---
 title: Pages
-cms_exclude: true
+cms_exclude: false
 draft: false
 
 # View.
