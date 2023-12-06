@@ -15,6 +15,7 @@ header:
   image: ''
 ---
 
+
 * [Sustainable Supply Chain Management in the Face of Climate Change: Estimating the Impact of Temperature and Precipitation Changes on Brazilian Soybean Yield](https://openaccess.nhh.no/nhh-xmlui/handle/11250/3090220) 
 
 * [Hva lærer vi av økte strømpriser? En estimering av spotprisens effekt for interesse av varmepumper](https://openaccess.nhh.no/nhh-xmlui/handle/11250/3050551)
