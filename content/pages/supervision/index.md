@@ -2,7 +2,7 @@
 title: Supervision
 cms_exclude: true
 draft: false
-
+profile: false
 # View.
 #   1 = List
 #   2 = Compact
