@@ -1,6 +1,6 @@
 ---
 title: Supervision
-cms_exclude: false
+cms_exclude: true
 draft: false
 
 # View.
