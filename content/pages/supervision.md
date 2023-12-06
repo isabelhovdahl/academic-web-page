@@ -22,7 +22,7 @@ sections:
         * [BAN438](https://www.nhh.no/en/courses/application-development-in-python/) Application Development in Python
     
     design:
-      columns: '1'
+      columns: '2'
 
 # Optional header image (relative to `static/media/` folder).
 header:
