@@ -1,13 +1,13 @@
 ---
 title: Pages
-cms_exclude: false
+cms_exclude: true
 draft: false
 
 # View.
 #   1 = List
 #   2 = Compact
 #   3 = Card
-view: 1
+view: 3
 
 # Optional header image (relative to `static/media/` folder).
 header:
