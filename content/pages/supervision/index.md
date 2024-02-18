@@ -15,6 +15,7 @@ header:
   image: ''
 ---
 
+* Variability in the Lifetime of Maritime Thruster Components: An Exploratory Analysis of Component Breakdown
 
 * [Sustainable Supply Chain Management in the Face of Climate Change: Estimating the Impact of Temperature and Precipitation Changes on Brazilian Soybean Yield](https://openaccess.nhh.no/nhh-xmlui/handle/11250/3090220) 
 
