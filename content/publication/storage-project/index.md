@@ -2,9 +2,9 @@
 title: Directed Technical Change and the Energy Transition: The Role of Storage Technology
 
 publication_types: ["3"]
-authors: ["with Maria Alsina-Pujols (ETH)]
+authors: ["with Maria Alsina-Pujols (ETH)"]
 summary: ""
-abstract: "Draft coming soon."
+abstract: "Draft comming soon."
 
 #publication: ""
 
