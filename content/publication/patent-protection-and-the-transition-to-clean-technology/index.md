@@ -16,7 +16,7 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-doi = "https://doi.org/10.1086/732482"  
+doi: "https://doi.org/10.1086/732482"  
 date: 2024-07-26T15:56:59.385Z
 
 ---
