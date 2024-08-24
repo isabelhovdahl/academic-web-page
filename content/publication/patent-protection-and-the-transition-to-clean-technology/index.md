@@ -21,6 +21,10 @@ date: 2024-07-26T15:56:59.385Z
 
 url_pdf: https://ethz.ch/content/dam/ethz/special-interest/mtec/cer-eth/cer-eth-dam/documents/working-papers/wp-23-385.pdf
 
+links: 
+- name: Online Appendix
+  url: pdf/supplemental_information.pdf
+
 
 
 ---
