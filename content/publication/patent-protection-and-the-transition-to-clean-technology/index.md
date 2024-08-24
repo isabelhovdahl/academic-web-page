@@ -19,7 +19,7 @@ image:
 doi: "https://doi.org/10.1086/732482"  
 date: 2024-07-26T15:56:59.385Z
 
-url_pdf: https://isabelhovdahl.com/publication/patent-protection-and-the-transition-to-clean-technology/patent-protection-and-the-transition-to-clean-technology.pdf
+url_pdf: https://ethz.ch/content/dam/ethz/special-interest/mtec/cer-eth/cer-eth-dam/documents/working-papers/wp-23-385.pdf
 
 
 
