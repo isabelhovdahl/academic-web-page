@@ -14,8 +14,9 @@ header:
   caption: ''
   image: ''
 ---
+* Do ESG ratings promote green innovation inside the European Union?
 
-* Variability in the Lifetime of Maritime Thruster Components: An Exploratory Analysis of Component Breakdown (co-supervisor with G. Fuentes)
+* [Variability in the Lifetime of Maritime Thruster Components: An Exploratory Analysis of Component Breakdown](https://openaccess.nhh.no/nhh-xmlui/handle/11250/3129786) (co-supervisor with G. Fuentes)
 
 * [Sustainable Supply Chain Management in the Face of Climate Change: Estimating the Impact of Temperature and Precipitation Changes on Brazilian Soybean Yield](https://openaccess.nhh.no/nhh-xmlui/handle/11250/3090220) 
 
