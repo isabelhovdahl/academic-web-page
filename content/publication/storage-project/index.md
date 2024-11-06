@@ -8,7 +8,7 @@ abstract: "Draft comming soon."
 
 #publication: ""
 
-draft: false
+draft: true
 
 featured: false
 
