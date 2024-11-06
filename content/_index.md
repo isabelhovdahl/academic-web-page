@@ -45,17 +45,6 @@ sections:
  #     text: Add text here
  #   design:
  #     columns: '2'
- - block: collection
-    id: projects
-    content:
-      title: Selected work-in-progress
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: compact
   - block: collection
     id: working
     content:
