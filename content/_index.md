@@ -45,22 +45,10 @@ sections:
  #     text: Add text here
  #   design:
  #     columns: '2'
- - block: markdown
-    id: teaching
+  - block: markdown
+    id: work-in-progress
     content:
-      title: Teaching
-      text: |-
-        At NHH, I teach the following courses:
-        * [TECH2](https://www.nhh.no/en/courses/introduction-to-programming-data-and-information-technology/) Introduction to Programming, Data, and Information Technology
-        
-        * [BAN436](https://www.nhh.no/en/courses/introduction-to-python/) Introduction to Python
-        
-        * [BAN438](https://www.nhh.no/en/courses/application-development-in-python/) Application Development in Python
-
-#        See [here](https://isabelhovdahl.com/pages/supervision/) for a list of master thesis supervision.
-    
-    design:
-      columns: '2'
+      title: Selected work-in-progress
   - block: collection
     id: working
     content:
