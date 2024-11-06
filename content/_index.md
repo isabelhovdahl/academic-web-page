@@ -49,6 +49,11 @@ sections:
     id: work-in-progress
     content:
       title: Selected work-in-progress
+      text: |-
+        *Charging the Transition: Energy Storage Innovation and Climate Policy 
+        *European market integration and price convergence: A quantile regression analysis of NordLink
+    design:
+      columns: '2'
   - block: collection
     id: working
     content:
