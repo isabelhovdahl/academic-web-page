@@ -10,7 +10,7 @@ abstract: "Draft comming soon."
 
 draft: false
 
-featured: true
+featured: false
 
 image:
   filename: ""
