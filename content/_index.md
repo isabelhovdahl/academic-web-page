@@ -45,6 +45,16 @@ sections:
  #     text: Add text here
  #   design:
  #     columns: '2'
+ - block: markdown
+    id: projects
+    content:
+      title: Selected work-in-progress
+      text: |-
+        * Item1
+        
+        * Item2   
+    design:
+      columns: '2'
   - block: collection
     id: working
     content:
