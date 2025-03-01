@@ -52,7 +52,7 @@ sections:
       text: |-
         * **Charging the Transition: Energy Storage Innovation and Climate Policy** with Maria Alsina-Pujols (ETH)
     
-        * **European market integration and price convergence: A quantile regression analysis of NordLink** with Endre Bjørndal (NHH), Mette Bjørndal (NHH) and Kyriaki Tselika (SINTEF)
+        * **European market integration and price convergence: A quantile regression analysis of NordLink** with Endre Bjørndal (NHH), Mette Bjørndal (NHH) and Kyriaki Tselika (NHH)
     design:
       columns: '2'
   - block: collection
