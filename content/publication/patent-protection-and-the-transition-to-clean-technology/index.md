@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Interest Rates Under Falling Stars"
+title: "Patent Protection and the Transition to Clean Technology"
 authors: ["Michael D. Bauer", "Glenn D. Rudebusch"]
 date: 2020-05-01
 featured: false
