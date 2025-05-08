@@ -3,7 +3,6 @@ title: "Patent Protection and the Transition to Clean Technology"
 authors: ["Maria Alsina-Pujols", "Isabel Hovdahl"]
 date: 2025-07-01
 featured: false
-draft: false
 publication_types: ["2"]
 
 # Publication name and optional abbreviated version.
