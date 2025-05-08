@@ -4,7 +4,8 @@
 title: "Interest Rates Under Falling Stars"
 authors: ["Michael D. Bauer", "Glenn D. Rudebusch"]
 date: 2020-05-27
-featured: true
+featured: false
+draft: false
 publication_types: ["2"]
 
 # Publication name and optional abbreviated version.
