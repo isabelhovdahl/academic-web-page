@@ -3,7 +3,7 @@
 
 title: "Patent Protection and the Transition to Clean Technology"
 authors: ["Michael D. Bauer", "Glenn D. Rudebusch"]
-date: 2020-05-01
+date: 2025-07-01
 featured: false
 publication_types: ["2"]
 
