@@ -3,14 +3,14 @@ title: "Patent Protection and the Transition to Clean Technology"
 
 date: 2025-07-01
 draft: false
-featured: true
+featured: false
 authors: ["Maria Alsina-Pujols", "Isabel Hovdahl"]
 publication_types: ["2"]
 
-# Publication name and optional abbreviated version.
+# Publication name 
 publication: "*Journal of the Association of Environmental and Resource Economists*"
 
-# Abstract and optional shortened version.
+# Abstract
 abstract: "We analyze the use of patent protection as a new policy to direct technical change to clean technology. Contrary to popular belief, it is dirty (and not clean) innovations that should be excluded from patent protection to reduce emissions. In the short-run, removing patent protection on dirty technology increases emissions. However, the reduced markup on dirty technology can induce clean innovation, reducing emissions in the long-run. We use a general equilibrium model to show both analytically and numerically that removing patent protection on dirty technology can indeed promote the energy transition and reduce the cost of mitigating climate change."
 
 # DOI and Custom links
