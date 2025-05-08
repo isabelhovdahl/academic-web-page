@@ -3,7 +3,7 @@
 
 title: "Interest Rates Under Falling Stars"
 authors: ["Michael D. Bauer", "Glenn D. Rudebusch"]
-date: 2020-05-27
+date: 2020-05-01
 featured: false
 publication_types: ["2"]
 
