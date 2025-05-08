@@ -89,6 +89,8 @@ sections:
         
         * [BAN438](https://www.nhh.no/en/courses/application-development-in-python/) Application Development in Python
 
+    I am also the profile coordinator for the Master's in [Business Analytics](https://www.nhh.no/en/study-programmes/msc-in-economics-and-business-administration/business-analytics/). 
+
 #        See [here](https://isabelhovdahl.com/pages/supervision/) for a list of master thesis supervision.
     
     design:
