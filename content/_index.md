@@ -52,7 +52,7 @@ sections:
       text: |-
         * **Charging the Transition: Energy Storage Innovation and Climate Policy** with Maria Alsina-Pujols (ETH)
     
-        * **European market integration and price convergence: A quantile regression analysis of NordLink** with Endre Bjørndal (NHH), Mette Bjørndal (NHH) and Kyriaki Tselika (NHH)
+        * **European market integration and price convergence: A panel quantile regression analysis of NordLink** with Endre Bjørndal (NHH), Mette Bjørndal (NHH) and Kyriaki Tselika (NHH)
     design:
       columns: '2'
   - block: collection
@@ -88,7 +88,8 @@ sections:
         * [BAN436](https://www.nhh.no/en/courses/introduction-to-python/) Introduction to Python
     
         * [BAN438](https://www.nhh.no/en/courses/application-development-in-python/) Application Development in Python
-    I am also the profile coordinator for the Master's in [Business Analytics](https://www.nhh.no/en/study-programmes/msc-in-economics-and-business-administration/business-analytics/). 
+
+        I am also the profile coordinator for the Master's in [Business Analytics](https://www.nhh.no/en/study-programmes/msc-in-economics-and-business-administration/business-analytics/). 
 #        See [here](https://isabelhovdahl.com/pages/supervision/) for a list of master thesis supervision.
     
     design:
