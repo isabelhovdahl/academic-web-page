@@ -24,7 +24,7 @@ publication_types:
   - "2"
 authors: ['Isabel Hovdahl']
 author_notes: []
-publication: "Environmental Research Letters"
+publication: "*Environmental Research Letters*"
 summary: ""
 url_dataset: ""
 url_project: ""
