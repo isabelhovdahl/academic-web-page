@@ -45,16 +45,16 @@ sections:
  #     text: Add text here
  #   design:
  #     columns: '2'
-  - block: markdown
-    id: work-in-progress
-    content:
-      title: Selected work-in-progress
-      text: |-
-        * **Charging the Transition: Energy Storage Innovation and Climate Policy** with Maria Alsina-Pujols (ETH)
-    
+ # - block: markdown
+ #   id: work-in-progress
+ #   content:
+ #     title: Selected work-in-progress
+ #     text: |-
+ #       * **Charging the Transition: Energy Storage Innovation and Climate Policy** with Maria Alsina-Pujols (ETH)
+ #   
 #        * **European market integration and price convergence: A panel quantile regression analysis of NordLink** with Endre Bjørndal (NHH), Mette Bjørndal (NHH) and Kyriaki Tselika (NHH)
-    design:
-      columns: '2'
+#    design:
+#      columns: '2'
   - block: collection
     id: working
     content:
