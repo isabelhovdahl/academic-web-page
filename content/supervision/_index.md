@@ -15,6 +15,15 @@ header:
   image: ''
 ---
 
+* Carbon Pricing and the Clean Energy Transition in a Globalised world
+  
+* Cold Challenges: An empirical Analysis of Winter Weather and Electric Vehicle Adoption
+
+* [Rethinking the Collapse in Green Innovation](https://openaccess.nhh.no/nhh-xmlui/handle/11250/3179296)
+
+* [Do ESG ratings promote green innovation inside the European Union?](https://openaccess.nhh.no/nhh-xmlui/handle/11250/3158988)
+
+* [Variability in the Lifetime of Maritime Thruster Components : An Exploratory Analysis of Component Breakdown](https://openaccess.nhh.no/nhh-xmlui/handle/11250/3129786)
 
 * [Sustainable Supply Chain Management in the Face of Climate Change: Estimating the Impact of Temperature and Precipitation Changes on Brazilian Soybean Yield](https://openaccess.nhh.no/nhh-xmlui/handle/11250/3090220) 
 
