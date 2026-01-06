@@ -85,9 +85,7 @@ sections:
         At NHH, I teach the following courses:
         * [TECH2](https://www.nhh.no/en/courses/introduction-to-programming-data-and-information-technology/) Introduction to Programming, Data, and Information Technology
         
-        * [BAN436](https://www.nhh.no/en/courses/introduction-to-python/) Introduction to Python
-    
-        * [BAN438](https://www.nhh.no/en/courses/application-development-in-python/) Application Development in Python
+        * [BAN405](https://www.nhh.no/en/courses/python-programming-for-data-science/) Python Programming for Data Science
 
         I am also the profile coordinator for the Master's in [Business Analytics](https://www.nhh.no/en/study-programmes/msc-in-economics-and-business-administration/business-analytics/). 
 #        See [here](https://isabelhovdahl.com/pages/supervision/) for a list of master thesis supervision.
